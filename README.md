@@ -15,5 +15,5 @@ amirhayati.github.io/Desert_Tour/
 
 ## How To Run
 1. Clone This Repo.
-1. Run "npm install" Command
-1. Run "npm start" Command
+1. Run `"npm install"` Command
+1. Run `"npm start"` Command
