@@ -3,7 +3,7 @@ This Repo Contains a Simple Animation WebPage Made Using Reactjs And Framer Moti
 
 
 ## Preview
-[amirhayati.github.io/Desert_Tour/](amirhayati.github.io/Desert_Tour/)
+[amirhayati.github.io/Desert_Tour](https://amirhayati.github.io/Desert_Tour/)
 
 ## TechStack
 - Reactjs
